@@ -1,5 +1,5 @@
 # forkawesomefork
-A local up-to-date [index.html](index.html) file of my local Fork Awesome fork as this file is not updated (even lagging behind the original Fork Awesome repository) [Fork Awesome Icons](https://forkaweso.me/Fork-Awesome/icons/)
+A local up-to-date [index.html](https://htmlpreview.github.io/?https://github.com/diondresschers/awesomefork/blob/master/index.html) file of my local Fork Awesome fork as this file is not always updated (also lagging behind the original Fork Awesome repository) [Fork Awesome Icons](https://forkaweso.me/Fork-Awesome/icons/)
 
 As a test the CSS of my local Repository can be used: 
 
